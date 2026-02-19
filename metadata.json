@@ -1,0 +1,5 @@
+{
+  "name": "Lotto & Friends",
+  "description": "A social lottery simulation game where you can create ticket pools with friends.",
+  "requestFramePermissions": []
+}
